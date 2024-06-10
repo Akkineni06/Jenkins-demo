@@ -1,1 +1,1 @@
-echo "Hello Aditi"
+echo "Hello Aarush"
